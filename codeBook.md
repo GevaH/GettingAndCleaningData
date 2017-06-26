@@ -11,6 +11,7 @@ The script creates variables within R workspace. Those would be: <br>
 
 ## The script
 The script is composed of five main parts (corresponding to assignments' requirements) and a last part for representation purposes. <br>
+Please also note that you need to install the dplyr package in order to run this code. <br>
 Part 1 is joining the test and train datasets. <br>
 Part 2 extracts only mean and standard deviation data. <br>
 Part 3 fulfills the 4th requirement by adding descriptive activity names. <br>
